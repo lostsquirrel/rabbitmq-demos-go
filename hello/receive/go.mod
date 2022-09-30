@@ -1,4 +1,4 @@
-module hello
+module receive
 
 go 1.18
 
